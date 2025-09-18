@@ -1,6 +1,6 @@
 # Frontend Deployment Guide
 
-Your frontend is now configured to communicate with your Vercel API at `https://scaffold-ai-test2.vercel.app`.
+Your frontend is now configured to communicate with your Vercel API at `https://test-uc.vercel.app/`.
 
 ## Option 1: Deploy to Netlify (Recommended - Easiest)
 
